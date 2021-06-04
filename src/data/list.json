@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Hopper",
+    "selected": true,
+    "category": "computer"
+  },
+  {
+    "id": 2,
+    "title": "Holberton",
+    "selected": false,
+    "category": "computer"
+  },
+  {
+    "id": 3,
+    "title": "Antonelli",
+    "selected": false,
+    "category": "other"
+  },
+  {
+    "id": 4,
+    "title": "Bartik",
+    "selected": false,
+    "category": "other"
+  },
+  {
+    "id": 5,
+    "title": "Teitelbaum",
+    "selected": false,
+    "category": "other"
+  }
+]

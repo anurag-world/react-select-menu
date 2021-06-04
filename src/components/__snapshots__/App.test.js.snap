@@ -1,0 +1,75 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Snapshot Test 1`] = `
+<div
+  className="container"
+  data-theme="light"
+>
+  <div>
+    <button
+      className="dark-mode-btn"
+      onClick={[Function]}
+    >
+      Switch to Dark Mode
+    </button>
+  </div>
+  <div
+    className="select-menu"
+  >
+    <div
+      className="simple-menu"
+    >
+      <h4
+        style={
+          Object {
+            "marginBottom": 20,
+          }
+        }
+      >
+        Simple Menu: 
+      </h4>
+      <button
+        className="menu-header"
+        onClick={[Function]}
+      >
+        Hopper
+        <span
+          aria-hidden={true}
+          className="fa fa-angle-down icon-color"
+          style={
+            Object {
+              "marginLeft": 12,
+            }
+          }
+        />
+      </button>
+    </div>
+    <div>
+      <h4
+        style={
+          Object {
+            "marginBottom": 20,
+          }
+        }
+      >
+        Extended Menu: 
+      </h4>
+      <button
+        className="menu-header"
+        onClick={[Function]}
+      >
+        Hopper
+        <span
+          aria-hidden={true}
+          className="fa fa-angle-down icon-color"
+          style={
+            Object {
+              "marginLeft": 12,
+            }
+          }
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
